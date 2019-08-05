@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "联系我们",
+  "component":true,
+  "usingComponents": {
+    "i-button": "../../static/iview/button/index"
+}
+}
